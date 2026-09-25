@@ -1,9 +1,9 @@
-# ThucHanh05_NHOM02
+# ThucHanh05_NHOM01
 # BÀI THỰC HÀNH 05: TẠO, QUẢN LÝ VÀ CHIA SẺ NỘI DUNG SỐ
-- ĐÀO THỊ KIM NGÂN   B2504807
-- LÊ KIM NGÂN B2504808
-- HOÀNG NGỌC CHĂM B2504827
-- TRẦN NGUYỄN ANH THƯ B2504818
+- Bùi Trương Bảo Ngọc B2504810
+- Nguyễn Thái Anh B2613046
+- Lê Phạm Gia Bảo B2613047
+- Trần Ngọc Thiên Bảo B2613048
 # Phần 1: Tạo và Chỉnh sửa Nội dung Văn bản Số 
 - Mục tiêu: Tạo và chỉnh sửa nội dung văn bản số bằng Microsoft Word/Google Docs, áp dụng bản quyền (CLO9).
 - Nhiệm vụ 1.1: Tạo tài liệu báo cáo bằng Google Docs
@@ -14,11 +14,11 @@
   + Nguồn AI: https://creativecommons.org/licenses/by/4.0/
 - Nhiệm vụ 2.2: Tạo video ngắn bằng CapCut
   + ## License
-  + Copyright (c) 2026 Anh Thư  
+  + Copyright (c) 2026 Bảo Ngọc  
   + Licensed under Creative Commons CC BY 4.0.
 # Phần 3: Tạo và Quản lý Mã Nguồn
 - Nhiệm vụ 3.1: Tạo mã nguồn HTML hiển thị nội dung số
  + Nguồn: Canva AI, Unsplash, CapCut, Pexels
  + Phát hành theo giấy phép Creative Commons CC BY 4.0
 - Nhiệm vụ 3.2: Quản lý phiên bản bằng Git/GitHub
-  + https://github.com/nganb2504808-afk/ThucHanh05_L-Kim-Ng-n..git
+  + https://github.com/ngocb2504810/ThucHanh5_Nhom1
